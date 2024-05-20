@@ -4,6 +4,10 @@
 - [ ] Setup cli for general block to storybook
 - [ ] Add test (Vitest)
 
+# References
+
+🌟 Inspired from [mui-treasury](https://github.com/siriwatknp/mui-treasury)
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
